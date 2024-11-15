@@ -66,6 +66,14 @@ pip install -r requirements.txt
 - You can customize the model and toggle streaming responses from the sidebar.
 - The app will keep a chat history, making it easy to review past interactions.
 
+## Demo
+
+Here is a demo GIF showing the UI of ConvoBot during testing:
+
+![ConvoBot UI Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhsaHZ0b3k3NmI2dmtxeXo0MnI1ZjJtemcya2k0aGEzdDZodmYwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q4p6hab6bWsnBLMkDo/giphy.gif)
+
+This demonstrates the real-time interaction and functionality of the chat UI.
+
 ## Contributing
 
 1. Fork the repository.
